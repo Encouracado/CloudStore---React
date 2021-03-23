@@ -1,0 +1,36 @@
+.Separador {
+    margin: 8px;
+    text-decoration:none;
+    color: black;
+}
+
+.Separador:hover{
+    text-decoration:none;
+    text-anchor: none;
+    color: black;
+}
+
+.navBar-Decoration{
+   background-color: rgb(233, 230, 230);
+}
+
+.footer-decoration{
+    display: Flex;
+    flex-direction: column;
+    letter-spacing: 1px;
+    justify-content:center;
+    align-items: center;
+    background-color: lightcyan;
+    border-top: 1px solid gray;
+}
+
+.footer-paragraph{
+    margin-top: 10px;
+    color: gray;
+    font-size:12px;
+}
+
+.footer-companyName{
+    font-size:23px;
+}
+
